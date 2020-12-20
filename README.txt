@@ -1,13 +1,11 @@
 
-TITLE: 
-App - Free HTML5 App Template Built with Bootstrap 4
+TITULO: 
+PORTFOLIO DDCAPPMOBILE HTML5  Template com Bootstrap 4
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Daniela Rodrigued
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://ddcappmobile.github.io/ddcappmobile
 
 
 CREDITS:
